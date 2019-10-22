@@ -30,12 +30,11 @@ Whether analysing data during my masters, setting up a site for a sustainable cl
 |[**The Good Guys**](https://github.com/GuyCalloway/acebook-good-guys)| 2 week </br> Group project | Created a social media web app where users can sign in and post messages or albums. | HTML, CSS, Rails, bootstrap, RSpec/Capybara, Heroku, Travis CI
 |**Codewars Kata**<br>[1 Gaps between Primes](https://github.com/GuyCalloway/TDD-Practise-5-Gap-in-Primes)<br> [2 Battleship](https://github.com/GuyCalloway/TDD-Practise_Battleship)| </br>Solo projects | Fun problems to solve,  using TDD. Using as tool to improve DRY, SRP, LoD processes |Ruby, RSpec |
 
-<h2 align="center"> Education</h2>
-
 **Makers Academy** (2019 July - September) **|**
 |**Languages**|**Database Management**|**Testing & Deployment**|**Text Editors**|**Work Processes**|
 |:-----:|:-----:|:-----:|:-----:|:-----:|
 |Ruby, Javascript, SQL, HTML, CSS|PostgreSQL| RSpec, Jasmine, Capybara, Jest, Travis CI, Karma, Heroku | VS Code, atom, VIM | Command-line control, TDD, Git workflow, AGILE & Scrum, Pair programming, Code reviews
+
 
 **Oxford University** (2010 - 2017) **|** 
 |Award| Description|

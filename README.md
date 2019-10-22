@@ -38,14 +38,14 @@ Whether analysing data during my masters, setting up a site for a sustainable cl
 |:-----:|:-----:|:-----:|:-----:|:-----:|
 |Ruby, Javascript, SQL, HTML, CSS|PostgreSQL| RSpec, Jasmine, Capybara, Jest, Travis CI, Karma, Heroku | VS Code, atom, VIM | Command-line control, TDD, Git workflow, AGILE & Scrum, Pair programming, Code reviews
 
-#### Oxford University** (2010 - 2017) **|** 
+#### Oxford University** (2010 - 2017)
 |Award| Description|
 |:-----:|:-----:|
  |**MEng Materials Science**| BEng Materials Science, MA Mechanical Properties of High Purity Chromium for Fusion Power)
  |**Team design Project: First Prize**| Design of an in-situ Heater for a Scanning Electron Microscope
  
  
-**Hills Road Sixth Form**(2007 - 2009) **|** A-levels (4 As: Maths, Chemistry, Physics and Geography)
+**Hills Road Sixth Form**(2007 - 2009) **|** A-levels (4 As: Maths, Chemistry, Physics and Geography)</br>
 **Perse School** (2002 -2007) **|** GCSEs (9 A*s, 1 A)
 
 ## Experience

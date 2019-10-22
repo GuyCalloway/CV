@@ -1,5 +1,5 @@
 ## Guy Calloway
-<a href='https://github.com/GuyCalloway' align="center" ><img src='https://avatars3.githubusercontent.com/u/51092029?s=460&v=4' width='100'></a>
+<a href='https://github.com/GuyCalloway' align="center" ><img src='https://avatars3.githubusercontent.com/u/51092029?s=460&v=4' width='100'></a></br>
 **Full stack junior software developer**
 Having started the  journey to becoming a software developer, I am a recent graduate of Makers Academy. Excited by the creative framework that coding provides to break a problem down, solve it and optimise this solution, I cant wait to keep improving this skills somewhere in the ever expanding world of tech!
 Whether analysing data during my masters, setting up a site for a sustainable clothing company or using music production and performance tools, knowledge of coding and software could have greatly streamlined my processes. Looking forward I am motivated and passionate about realising some of this great potential. 
@@ -28,7 +28,7 @@ Whether analysing data during my masters, setting up a site for a sustainable cl
 |:-----:|:-----:|:-----:|:-----:|
 |[**SYNE**](https://github.com/joaoag/react_front_end_hhh)</br>| 2 week</br> Group project| Final project at Makers Academy. Designed to analyse sound and visually represent it on a 3D canvas SYNE is a purely Javascript single-page web app. Deployed at [https://syne.herokuapp.com](https://syne.herokuapp.com/) | Javascript, Web Audio API, Node.js, THREE.js, HTML, CSS, DAT.gui, Heroku, Tested with Jasmine, Travis CI, Karma, ESlint
 |[**The Good Guys**](https://github.com/GuyCalloway/acebook-good-guys)| 2 week </br> Group project | Created a social media web app where users can sign in and post messages or albums. | HTML, CSS, Rails, bootstrap, RSpec/Capybara, Heroku, Travis CI
-|**Codewars Kata**<br>[1 Gaps between Primes](https://github.com/GuyCalloway/TDD-Practise-5-Gap-in-Primes)<br> [2 Battleship]([https://github.com/GuyCalloway/TDD-Practise_Battleship](https://github.com/GuyCalloway/TDD-Practise_Battleship))| </br>Solo projects | Fun problems to solve,  using TDD. Using as tool to improve DRY, SRP, LoD processes |Ruby, RSpec |
+|**Codewars Kata**<br>[1 Gaps between Primes](https://github.com/GuyCalloway/TDD-Practise-5-Gap-in-Primes)<br> [2 Battleship](https://github.com/GuyCalloway/TDD-Practise_Battleship)| </br>Solo projects | Fun problems to solve,  using TDD. Using as tool to improve DRY, SRP, LoD processes |Ruby, RSpec |
 
 <h2 align="center"> Education</h2>
 

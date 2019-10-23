@@ -48,7 +48,7 @@ Whether analysing data during my masters, setting up a site for a sustainable cl
 **Perse School** (2002 -2007) **|** GCSEs (9 A*s, 1 A)
 
 ## Experience
-**[Banzhu](www.twitter.com/banzhu_uk) - Sustainable Clothing Start-up**  (2014 - 2017) **|** Founder
+**[Banzhu](https://www.twitter.com/banzhu_uk) - Sustainable Clothing Start-up**  (2014 - 2017) **|** Founder
 **Tangible Benefit**  (2017)  **|** New Business Manager
 **Plan-net**  (2016)  **|** Internal Account Manager
 

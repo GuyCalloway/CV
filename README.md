@@ -61,4 +61,5 @@ Whether analysing data during my masters, setting up a site for a sustainable cl
  ----
 ### Hobbies
 Music: love to play Trumpet and listen to music
-Started a sustainable clothing company (currently inactive) [Banzhu](https://www.twitter.com/banzhu_uk)
+Started a sustainable clothing company (currently inactive) <a href="http://www.twitter.com/banzhu_uk">Banzhu</a>
+

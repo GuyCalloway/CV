@@ -14,12 +14,12 @@ Whether analysing data during my masters, setting up a site for a sustainable cl
 - 5 kyu level on Codewars after completing 36 Kata of increasing difficulty
 
 #### Collaboration and Communication
-- Contributing to agile workflow, and using 2/3 day sprints in my final project. Making sure each team member was working on an area of the product that played to their strengths or was in area where they had highlighted to improve in.
--   Having clear manageable goals and open communication channels during tech projects for example using morning check ins, stand ups and a group trello boards for splitting tickets and tracking progress. The importance of these was highlighted when working in a range of team environments during Maker's projects. Creating a git wiki was also extremely useful in making sure the whole team had a solid understanding of the code base. 
+- Maintaining good feedback on a projects progress to create an agile workflow. Using 2/3 day sprints, making sure each team member was working on an area of the product that played to their strengths or was in area where they had highlighted to improve in.
+-   Having clear manageable goals and open communication channels during tech projects. We used morning check ins, stand ups and a group trello boards for splitting tickets and tracking progress. The importance of these was highlighted when working in a range of team environments during Maker's projects. Creating a git wiki was also extremely useful in making sure the whole team had a solid understanding of the code base. 
 - Collaborating with small like minded businesses when creating Banzhu, or learning from fellow researchers/finding time to catch senior researchers during my masters research project, I learnt to balance busy schedules and made sure to time-box and prioritise issues. 
 - Overseeing the presentation, formatting and grammar of the team design project required meet ups and check ins on progress througout the project.
 - Most of all I enjoy team work and positively contributing to my work environment!
-  #### Fast Learner
+#### Fast Learner
   
 <h2 align="center"> Projects</h2>
 
@@ -37,10 +37,10 @@ Whether analysing data during my masters, setting up a site for a sustainable cl
 |:-----:|:-----:|:-----:|:-----:|:-----:|
 |Ruby, Javascript, SQL, HTML, CSS|PostgreSQL| RSpec, Jasmine, Capybara, Jest, Travis CI, Karma, Heroku | VS Code, atom, VIM | Command-line control, TDD, Git workflow, AGILE & Scrum, Pair programming, Code reviews
 
-#### Oxford University** (2010 - 2017) **|** 
+#### Oxford University (2010 - 2017)
 |Award| Description|
 |:-----:|:-----:|
- |**MEng Materials Science**| BEng Materials Science, MA Mechanical Properties of High Purity Chromium for Fusion Power)
+ |**MEng Materials Science**| BEng Materials Science, MA Mechanical Properties of High Purity Chromium for Fusion Power
  |**Team design Project: First Prize**| Design of an in-situ Heater for a Scanning Electron Microscope
  
  
@@ -61,4 +61,4 @@ Whether analysing data during my masters, setting up a site for a sustainable cl
  ----
 ### Hobbies
 Music: love to play Trumpet and listen to music
-Started a sustainable clothing company (currently inactive) [Banzhu](www.twitter.com/banzhu_uk)
+Started a sustainable clothing company (currently inactive) [Banzhu](https://www.twitter.com/banzhu_uk)

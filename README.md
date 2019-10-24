@@ -11,7 +11,8 @@ Whether analysing data during my masters, setting up a site for a sustainable cl
 
 -  When researching high purity Chromiums mechanical properties for its potential use in Fusion reactors, being adaptable was crucial when coming up with practical solutions when equipment failed, or to prepare samples of an extremely difficult and brittle material.
 - Statistical processing of real time streaming data using Javascript in our SYNE application.
-- 5 kyu level on Codewars after completing 36 Kata of increasing difficulty
+- 5 kyu level on Codewars after completing Kata of increasing difficulty
+<img src='https://www.codewars.com/users/GuyCalloway/badges/small' width='100'></a></br>
 
 #### Collaboration and Communication
 - Maintaining good feedback on a projects progress to create an agile workflow. Using 2/3 day sprints, making sure each team member was working on an area of the product that played to their strengths or was in area where they had highlighted to improve in.

@@ -51,7 +51,7 @@ Whether analysing data during my masters, setting up a site for a sustainable cl
 ## Experience
 **[Banzhu](https://www.twitter.com/banzhu_uk) - Sustainable Clothing Start-up**  (2014 - 2017) **|** Founder
 </br>**Tangible Benefit**  (2017)  **|** New Business Manager
-**Plan-net**  (2016)  **|** Internal Account Manager
+</br>**Plan-net**  (2016)  **|** Internal Account Manager
 
 #### Other Experience:
 **British Heart Foundation** (2018 - 2019) **|** Volunteer shop assistant
@@ -62,5 +62,5 @@ Whether analysing data during my masters, setting up a site for a sustainable cl
  ----
 ### Hobbies
 Music: love to play Trumpet and listen to music
-Started a sustainable clothing company (currently inactive) <a href="http://www.twitter.com/banzhu_uk">Banzhu</a>
+</br>Started a sustainable clothing company (currently inactive) <a href="http://www.twitter.com/banzhu_uk">Banzhu</a>
 

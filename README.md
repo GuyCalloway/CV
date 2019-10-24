@@ -2,7 +2,7 @@
 ## Guy Calloway
 <a href='https://github.com/GuyCalloway' align="center" ><img src='https://avatars3.githubusercontent.com/u/51092029?s=460&v=4' width='300'></a></br>
 **Full stack junior software developer**
-Having started the  journey to becoming a software developer, I am a recent graduate of Makers Academy. Excited by the creative framework that coding provides to break a problem down, solve it and optimise this solution, I cant wait to keep improving this skills somewhere in the ever expanding world of tech!
+</br>Having started the  journey to becoming a software developer, I am a recent graduate of Makers Academy. Excited by the creative framework that coding provides to break a problem down, solve it and optimise this solution, I cant wait to keep improving this skills somewhere in the ever expanding world of tech!
 Whether analysing data during my masters, setting up a site for a sustainable clothing company or using music production and performance tools, knowledge of coding and software could have greatly streamlined my processes. Looking forward I am motivated and passionate about realising some of this great potential. 
 
 ## Skills

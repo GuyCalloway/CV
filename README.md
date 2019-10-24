@@ -50,7 +50,7 @@ Whether analysing data during my masters, setting up a site for a sustainable cl
 
 ## Experience
 **[Banzhu](https://www.twitter.com/banzhu_uk) - Sustainable Clothing Start-up**  (2014 - 2017) **|** Founder
-**Tangible Benefit**  (2017)  **|** New Business Manager
+</br>**Tangible Benefit**  (2017)  **|** New Business Manager
 **Plan-net**  (2016)  **|** Internal Account Manager
 
 #### Other Experience:

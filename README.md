@@ -46,7 +46,7 @@ Whether analysing data during my masters, setting up a site for a sustainable cl
  
  
 **Hills Road Sixth Form**(2007 - 2009) **|** A-levels (4 As: Maths, Chemistry, Physics and Geography)
-**Perse School** (2002 -2007) **|** GCSEs (9 A*s, 1 A)
+</br>**Perse School** (2002 -2007) **|** GCSEs (9 A*s, 1 A)
 
 ## Experience
 **[Banzhu](https://www.twitter.com/banzhu_uk) - Sustainable Clothing Start-up**  (2014 - 2017) **|** Founder

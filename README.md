@@ -55,9 +55,9 @@ Whether analysing data during my masters, setting up a site for a sustainable cl
 
 #### Other Experience:
 **British Heart Foundation** (2018 - 2019) **|** Volunteer shop assistant
-**Radio DJ & Host** (2013-2015) **|** Presented biweekly music show during term for Subverse Radio
-**Life Guard** (2009 - 2010) **|** Teaching life guarding skills at Haverhill Leisure centre
-**Headway** (2009 - 2010) **|** Rehabilitation and Learning Centre Assistant 
+</br>**Radio DJ & Host** (2013-2015) **|** Presented biweekly music show during term for Subverse Radio
+</br>**Life Guard** (2009 - 2010) **|** Teaching life guarding skills at Haverhill Leisure centre<
+</br>**Headway** (2009 - 2010) **|** Rehabilitation and Learning Centre Assistant 
 
  ----
 ### Hobbies

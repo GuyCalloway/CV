@@ -16,7 +16,7 @@ Whether analysing data during my masters, setting up a site for a sustainable cl
 
 #### Communication
 - Maintaining good feedback on a projects during 2/3 day sprints, making sure each team member was working on an area of the product that played to their strengths or was in area where they had highlighted to improve in.
-- Having clear manageable goals, morning check-ins and a group trello board allowed for splitting tickets and tracking progress. The importance of these was highlighted when working in a range of team environments during Maker's projects. Creating a git wiki was also extremely useful in making sure the whole team had a solid understanding of the code base [**git wiki**](https://github.com/krisswiltshire30/syne). 
+- Having clear manageable goals, morning check-ins and a group trello board allowed for splitting tickets and tracking progress. The importance of these was highlighted when working in a range of team environments during Maker's projects. Creating a git wiki was also extremely useful in making sure the whole team had a solid understanding of the code base [**(syne: git wiki)**](https://github.com/krisswiltshire30/syne). 
 #### Collaboration
 - Collaborating with small like minded businesses when creating Banzhu, requiring networking and understanding of customer engagement.
 - Learning from fellow researchers and finding time to catch senior researchers during my masters research project meant I learnt the important skill of balancing busy schedules and making sure to time-box and prioritise issues. 

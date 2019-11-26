@@ -10,7 +10,7 @@ Whether analysing data during my masters, setting up a site for a sustainable cl
 #### Analytical thinking & problem solving
 
 -  During my masters researching high purity Chromiums mechanical properties for its potential use in Fusion reactors, being adaptable was crucial when coming up with practical solutions when equipment failed, or to prepare samples of an extremely difficult and brittle material.
-- Statistical processing of real time streaming data for our SYNE application presented a challenge during the final Makers project. Solving this was a rewarding challenge requiring me to delve deeper into Javascripts scope and the functioning of an animation loop.
+- Statistical processing of real time streaming data for our SYNE application presented a challenge during the final Makers project. Solving this was a rewarding challenge requiring me to delve deeper into Javascripts scope, performance management and the functioning of an animation loop.
 - 5 kyu level on Codewars after completing Kata of increasing difficulty
 </br><a href='https://www.codewars.com/users/GuyCalloway' align="center" ><img src='https://www.codewars.com/users/GuyCalloway/badges/large' width='300'></a></br>
 

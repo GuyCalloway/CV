@@ -1,6 +1,8 @@
 
 ## Guy Calloway
-<a align="center" href='https://github.com/GuyCalloway'  ><img src='https://avatars3.githubusercontent.com/u/51092029?s=460&v=4' width='200'></a></br>
+<p align="center">
+<a href='https://github.com/GuyCalloway'  ><img src='https://avatars3.githubusercontent.com/u/51092029?s=460&v=4' width='200'></a></br>
+</p>
 **Full stack junior software developer**
 </br>After graduating with an MEng in Materials Science from Oxford University I decided to begin the journey to becoming a software developer. I am a recent graduate of Makers Academy, a 3 month intensive bootcamp that teaches you the critical skill of learning a new technology and adapting to change. The creative framework that coding provides to break a problem down, solve it and optimise this solution is extremely exciting and I cant wait to keep improving these skills somewhere in the ever expanding world of tech!
 Whether analysing data during my masters, setting up a site for a sustainable clothing company or using music production and performance tools, knowledge of coding and software could have massively streamlined these processes. Looking forward I am motivated and passionate about realising some of this great potential. 

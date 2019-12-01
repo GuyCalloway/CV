@@ -34,7 +34,7 @@ When analysing data during my masters, setting up a site for a sustainable cloth
 |:-----:|:-----:|:-----:|:-----:|
 |[**SYNE**](https://github.com/krisswiltshire30/syne)</br>| 2 week</br> Group project| Final project at Makers Academy. Designed to analyse sound and visually represent it on a 3D canvas SYNE is a purely Javascript single-page web app. Deployed at [https://syne.herokuapp.com](https://syne.herokuapp.com/) | Javascript, Web Audio API, Node.js, THREE.js, HTML, CSS, DAT.gui, Heroku, Tested with Jasmine, Travis CI, Karma, ESlint
 |[**The Good Guys**](https://github.com/GuyCalloway/acebook-good-guys)| 2 week </br> Group project | Created a social media web app where users can sign in and post messages or albums. | HTML, CSS, Rails, bootstrap, RSpec/Capybara, Heroku, Travis CI
-|[**Algorithmic Complexity**](https://github.com/GuyCalloway/python_AlgorithmicComplexity)| </br> Solo Project | Using Python to create framework to test algorithmic complexity, using matplotlib to graph execution time vs data input size | Python, MatlibPlot |
+|[**Algorithmic Complexity**](https://github.com/GuyCalloway/python_AlgorithmicComplexity)| </br> Solo Project | Using Python to create framework to test algorithmic complexity, using matplotlib to graph execution time vs data input size | Python, MatlibPlot, Unittest |
 |**Codewars Kata**[</br>e.g. Gaps between Primes](https://github.com/GuyCalloway/TDD-Practise-5-Gap-in-Primes)| <br> Solo projects | Fun problems to solve,  using TDD. Using as tool to improve DRY, SRP, LoD processes |Ruby, RSpec |
 
 <h2 align="center"> Education</h2>

@@ -6,23 +6,23 @@
 </p>
 <h3 align="center">Full stack junior software developer</h3>
 
-</br>After graduating with an MEng in Materials Science from Oxford University I decided to begin the journey to becoming a software developer. I am a recent graduate of Makers Academy, a 3 month intensive bootcamp that teaches you the critical skill of learning a new technology and adapting to change. The creative framework that coding provides to break a problem down, solve it and optimise this solution is extremely exciting and I cant wait to keep improving these skills somewhere in the ever expanding world of tech!
-Whether analysing data during my masters, setting up a site for a sustainable clothing company or using music production and performance tools, knowledge of coding and software could have massively streamlined these processes. Looking forward I am motivated and passionate about realising some of this great potential. 
+</br>After graduating with an MEng in Materials Science from Oxford University I decided to begin the journey of becoming a software developer. I am a recent graduate of Makers Academy, a 3 month intensive bootcamp that teaches the skill of learning new technologies with a growth mindset. The creative framework that coding provides to break a problem down, solve it and optimise this solution is extremely exciting and I can't wait to continue to learn through building, breaking and improving code!
+When analysing data during my masters, setting up a site for a sustainable clothing company or using music production and performance tools, knowledge of coding and software could have massively streamlined these processes. Looking forward I am motivated and passionate about realising some of this great potential. 
 
 ## Skills
 
 #### Analytical thinking & problem solving
 
 -  During my Masters researching high purity Chromiums mechanical properties for its potential use in Fusion reactors, being adaptable was crucial when coming up with practical solutions when equipment failed, or to prepare samples of an extremely difficult and brittle material.
-- Statistical processing of real time streaming data for our SYNE application presented a challenge during the final Makers project. Solving this was a rewarding challenge requiring me to delve deeper into Javascripts scope, performance management and the functioning of an animation loop.
+- Statistical analysis of real time streaming data for our SYNE application presented a challenge during the final Makers project. Solving this was a rewarding process requiring me to delve deeper into Javascript. It required knowledge of scope, performance management and the functioning of an animation loop.
 - 5 kyu level on Codewars after completing Kata of increasing difficulty
 </br><a href='https://www.codewars.com/users/GuyCalloway' align="center" ><img src='https://www.codewars.com/users/GuyCalloway/badges/large' width='300'></a></br>
 
 #### Communication
-- Maintaining good feedback on a projects during 2/3 day sprints, making sure each team member was working on an area of the product that played to their strengths or was in area where they had highlighted to improve in.
+- Maintaining good feedback on a project during 2/3 day sprints, making sure each team member was working on an area of the product that played to their strengths or was in area where they had highlighted to improve in.
 - Having clear manageable goals, morning check-ins and a group trello board allowed for splitting tickets and tracking progress. The importance of these was highlighted when working in a range of team environments during Maker's projects. Creating a git wiki was also extremely useful in making sure the whole team had a solid understanding of the code base [**(syne: git wiki)**](https://github.com/krisswiltshire30/syne). 
 #### Collaboration
-- Collaborating with small like minded businesses when creating Banzhu, requiring networking and understanding of customer engagement.
+- Collaborating with small like minded businesses when creating Banzhu helped to develop a deeper understanding of customer values and build a strong and engaged network.
 - Learning from fellow researchers and finding time to catch senior researchers during my masters research project meant I learnt the important skill of balancing busy schedules and making sure to time-box and prioritise issues. 
 - Overseeing the presentation, formatting and grammar of the team design project required meet ups and check ins on progress througout the project.
 - Most of all I enjoy team work and positively contributing to my work environment!

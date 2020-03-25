@@ -28,8 +28,8 @@ When analysing data during my masters, setting up a site for a sustainable cloth
 </br><a href='https://www.codewars.com/users/GuyCalloway' align="center" ><img src='https://www.codewars.com/users/GuyCalloway/badges/large' width='300'></a></br>
 
 #### Communication
-- When working in sales and networking for Banzhu I learnt the importance of  to negotiate effectively by valuing empathy and understanding the context of the discussion and the people involved.
-- During projects at Makers Academy Hhving clear manageable goals, morning check-ins and a group trello board allowed for splitting tickets and tracking progress. The importance of these was highlighted when working in a range of different team environments. Creating a git wiki was also extremely useful in making sure the whole team had a solid understanding of the code base [**(syne: git wiki)**](https://github.com/krisswiltshire30/syne). 
+- When working in sales and networking for Banzhu I learnt the importance of negotiating effectively by engineering empathy and understanding the context of the discussion and the people involved.
+- During projects at Makers Academy having clear manageable goals, morning check-ins and a group trello board allowed for splitting tickets and tracking progress. The importance of these was highlighted when working in a range of different team environments. Creating a git wiki was also extremely useful in making sure the whole team had a solid understanding of the code base [**(syne: git wiki)**](https://github.com/krisswiltshire30/syne/wiki). 
 #### Collaboration
 - Collaborating with small like minded businesses when creating Banzhu helped to develop a deeper understanding of customer values and build a strong and engaged network.
 - Learning from fellow researchers and finding time to catch senior researchers during my masters research project meant I learnt the important skill of balancing busy schedules and making sure to time-box and prioritise issues. 
